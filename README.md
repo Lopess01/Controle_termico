@@ -31,3 +31,4 @@ Simulação e análise da telemetria térmica de um satélite em órbita baixa (
 pip install -r requirements.txt
 python main.py
 ```
+
